@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋, I'm Anuj Loharkar</h2>
-<h3 align="center" style="color: #1f2937; font-family: 'Courier New', monospace;">Pursuing B.Tech | Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center" style="color:#83ebff; font-family: 'Courier New', monospace;">Pursuing B.Tech | Full Stack Developer | MERN Stack Enthusiast</h3>
 
 
 ---
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&duration=4000&color=ff6600&center=true&vCenter=true&lines=MERN+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&duration=4000&color=83ebff&center=true&vCenter=true&lines=MERN+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG">
 </p>
 
 
