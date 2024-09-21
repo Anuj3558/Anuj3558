@@ -1,67 +1,21 @@
-<body class="bg-gray-100 text-gray-800 font-sans">
+<h1 align="center">Hi 👋, I'm Anuj Loharkar</h1>
+<h3 align="center">Pursuing B.Tech | Full Stack Developer | MERN Stack Enthusiast</h3>
 
-  <div class="max-w-4xl mx-auto my-8 p-8 bg-white shadow-lg rounded-lg">
-    <!-- Header -->
-    <header class="text-center">
-      <h1 class="text-4xl font-bold text-gray-900 mb-4">Anuj Loharkar</h1>
-      <p class="text-lg text-gray-600">Pursuing B.Tech | Full Stack Developer | MERN Stack Enthusiast</p>
-      <div class="mt-4 flex justify-center space-x-4">
-        <a href="mailto:anujloharkar3557@gmail.com" class="text-blue-600 underline">Email</a>
-        <a href="#" class="text-blue-600 underline">LinkedIn</a>
-        <p class="text-gray-600">Phone: +91 8010546419</p>
-      </div>
-    </header>
+- 🔭 I’m currently working on [Job Listing.](https://job-listing365.vercel.app/)
 
-    <!-- Education Section -->
-    <section class="mt-8">
-      <h2 class="text-2xl font-semibold text-gray-800 mb-4">🎓 Education</h2>
+- 🌱 I’m currently learning **AI AND ML**
 
-      <div class="mb-6">
-        <h3 class="text-xl font-bold text-gray-900">Pimpri Chinchwad College of Engineering, Pune</h3>
-        <p class="text-gray-600">Bachelor of Technology</p>
-        <p class="text-gray-600">Nigdi, Pune | Expected Graduation: May 2026</p>
-        <p class="text-gray-600 font-semibold">GPA: 8.47/10</p>
-        <p class="text-gray-600">Dean’s List (2024-2025)</p>
-        <p class="text-gray-600">Relevant Coursework: Database Management Systems, Software Engineering, Computer Networks, Algorithms</p>
-      </div>
+- 👨‍💻 All of my projects are available at [https://669b6f1eec4953a418b33023--iridescent-mandazi-9a2d7d.netlify.app/](https://669b6f1eec4953a418b33023--iridescent-mandazi-9a2d7d.netlify.app/)
 
-      <div class="mb-6">
-        <h3 class="text-xl font-bold text-gray-900">Bhonsala Military College, Nashik</h3>
-        <p class="text-gray-600">Higher Secondary Education | July 2022</p>
-        <p class="text-gray-600 font-semibold">Percentage: 86.4%</p>
-      </div>
-    </section>
+- 💬 Ask me about **REACT,NODE,MONGO**
 
-    <!-- Skills Section -->
-    <section class="mt-8">
-      <h2 class="text-2xl font-semibold text-gray-800 mb-4">💻 Skills</h2>
-      <ul class="list-disc ml-6 text-gray-600">
-        <li><strong>Languages & Frameworks:</strong> HTML, CSS, JavaScript, Tailwind CSS, React.js, Bootstrap, Node.js, Express.js</li>
-        <li><strong>Databases:</strong> MySQL, Oracle, MongoDB</li>
-        <li><strong>Programming:</strong> C, C++, Object-Oriented Programming (OOP)</li>
-      </ul>
-    </section>
+- 📫 How to reach me **anujloharkar3557@gmail.com**
 
-    <!-- Certifications Section -->
-    <section class="mt-8">
-      <h2 class="text-2xl font-semibold text-gray-800 mb-4">🏅 Certifications</h2>
-      <p class="text-gray-600">The Complete 2024 Web Development Bootcamp - Udemy</p>
-    </section>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anuj loharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj loharkar" height="30" width="40" /></a>
+<a href="https://instagram.com/im_anuj_020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_anuj_020" height="30" width="40" /></a>
+</p>
 
-    <!-- GDSC Section -->
-    <section class="mt-8">
-      <h2 class="text-2xl font-semibold text-gray-800 mb-4">🌐 Google Developer Students Club (GDSC) - PCCOE</h2>
-      <ul class="list-disc ml-6 text-gray-600">
-        <li>Web Executive</li>
-        <li>Contributed to Anantya event and Alphabite Hackathon</li>
-        <li>Conducted a web development bootcamp covering HTML, CSS, JS, and Bootstrap basics</li>
-      </ul>
-    </section>
-
-    <!-- Fun Fact Section -->
-    <footer class="mt-8 text-center">
-      <p class="text-gray-600">⚡ Fun Fact: I love exploring new technologies and enjoy collaborating on open-source projects!</p>
-    </footer>
-  </div>
-
-</body>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
