@@ -60,8 +60,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <div style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuj3558&show_icons=true&locale=en" alt="anuj3558" />
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj3558&" alt="anuj3558" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=anuj3558&show_icons=true&locale=en" alt="anuj3558" />
+     <img width="430px" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj3558&" alt="anuj3558" />
     <div>
    
   </div>
