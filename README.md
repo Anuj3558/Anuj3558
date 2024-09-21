@@ -9,9 +9,6 @@
 </p>
 
 
-<p align="center">
-   <img src="https://raw.githubusercontent.com/Anuj3558/Anuj3558/refs/heads/main/Animation%20-%201726924010608.gif" alt="Typing SVG" width="300px">
-</p>
 
 
 ---
